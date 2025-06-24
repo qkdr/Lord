@@ -1,5 +1,5 @@
 local games = {
-    [15438487904] = "https://raw.githubusercontent.com/DanielHubll/DanielHubll/main/Aimbot%20Mobile.lua"
+    [15438487904] = "https://raw.githubusercontent.com/ttwizz/Open-Aimbot/master/source.lua"
 }
 
 local defaultScript = "https://raw.githubusercontent.com/qkdr/Thronix/main/Thronix.lua"
