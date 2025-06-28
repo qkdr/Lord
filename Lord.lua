@@ -5,7 +5,8 @@ local games = {
     [18668065416] = "https://raw.githubusercontent.com/qkdr/Thronix/main/Thronix6.lua",
     [126884695634066] = "https://raw.githubusercontent.com/qkdr/Thronix/main/Thronix7.lua",
     [7711635737] = "https://raw.githubusercontent.com/qkdr/Thronix/main/Thronix8.lua",
-    [79546208627805] = "https://raw.githubusercontent.com/qkdr/Thronix/main/Thronix9.lua"
+    [79546208627805] = "https://raw.githubusercontent.com/qkdr/Thronix/main/Thronix9.lua",
+    [104715542330896] = "https://raw.githubusercontent.com/qkdr/Thronix/main/Thronix10.lua"
 }
 
 local defaultScript = "https://raw.githubusercontent.com/qkdr/Thronix/main/Thronix.lua"
